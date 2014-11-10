@@ -20,6 +20,10 @@
             android:name="org.natuan.eventbussampleactivity.ActivitySubscriber"
             android:label="@string/title_activity_activity_subscriber" >
         </activity>
+        <activity
+            android:name="org.natuan.eventbussampleactivity.BaseActivity"
+            android:label="@string/title_activity_base" >
+        </activity>
     </application>
 
 </manifest>
